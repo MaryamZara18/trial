@@ -1,0 +1,27 @@
+header h1{
+    text-align: center;
+    color: khaki;
+    font-weight: bold;
+    font-family: helvetica;
+    font-size: 100px;
+    background-image: url('images/pattern.webp');
+}
+
+main h2{
+font-family: helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+
+}
+
+h3, p{
+    font-family: helvetica;
+}
+
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
